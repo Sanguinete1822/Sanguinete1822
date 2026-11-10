@@ -1,205 +1,202 @@
-<!--
-  SYSTEM INITIALIZATION
-  GitHub Profile README
-  Replace SEU_USUARIO with your GitHub username.
--->
-
+```html
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:101B35,100:00D9FF&height=180&section=header&text=SYSTEM%20ONLINE&fontSize=45&fontColor=00E5FF&animation=fadeIn&fontAlignY=35&desc=DEVELOPER%20PROFILE%20%2F%20INITIALIZING...&descSize=12&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10052B,40:54268F,100:9B72CF&height=190&section=header&text=RAFAEL%20SANGUINETE&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=DESENVOLVIMENTO%20%7C%20TECNOLOGIA%20%7C%20APRENDIZADO&descSize=12&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Hello%2C+World!;Software+Development+Student;Java+%7C+Python+%7C+SQL;Building+knowledge.+Creating+solutions.;System+status%3A+Always+learning." />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1200&color=B794F4&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+seja+bem-vindo+ao+meu+perfil!;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Java+%7C+Python+%7C+SQL;Aprendendo%2C+praticando+e+evoluindo." />
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00E5FF?style=for-the-badge&labelColor=080D1A"/>
-<img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20DEVELOPMENT-8A2BE2?style=for-the-badge&labelColor=080D1A"/>
-<img src="https://img.shields.io/badge/LOCATION-BRAZIL-00E5FF?style=for-the-badge&labelColor=080D1A"/>
+<img src="https://img.shields.io/badge/FOCO-DESENVOLVIMENTO-9B72CF?style=for-the-badge&labelColor=10052B"/>
+<img src="https://img.shields.io/badge/AMBIENTE-FEDORA_LINUX-8B5CF6?style=for-the-badge&labelColor=10052B"/>
+<img src="https://img.shields.io/badge/LOCALIZAÇÃO-BRASIL-B794F4?style=for-the-badge&labelColor=10052B"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/░▒▓-TECH%20PROFILE-9B72CF?style=flat-square"/>
 
 </div>
 
 ---
 
-## `01 // ABOUT ME`
+## `01 // SOBRE MIM`
 
-<img align="right" width="180" src="https://github-readme-stats.vercel.app/api?username=Rafael Sanguinete&show_icons=true&hide_border=true&bg_color=080D1A&title_color=00E5FF&icon_color=8A2BE2&text_color=FFFFFF&hide_title=true"/>
+<img align="right" width="170" src="https://github-readme-stats.vercel.app/api?username=Sanguinete1822&show_icons=true&hide_border=true&bg_color=10052B&title_color=B794F4&icon_color=9B72CF&text_color=FFFFFF&hide_title=true"/>
 
-Olá! Sou estudante de **Análise e Desenvolvimento de Sistemas**, interessado em tecnologia, desenvolvimento de software e resolução de problemas.
+Olá! Sou **Rafael Sanguinete**, estudante de Análise e Desenvolvimento de Sistemas.
 
-Atualmente, estou construindo minha base técnica através de projetos práticos e estudos contínuos.
+Tenho interesse em tecnologia, programação e desenvolvimento de soluções. Atualmente, estou construindo minha base na área através de estudos e projetos práticos.
 
-Meu objetivo é desenvolver habilidades sólidas em programação, bancos de dados e desenvolvimento de sistemas, sempre buscando compreender não apenas como uma tecnologia funciona, mas também por que utilizá-la.
+Gosto de entender como as coisas funcionam, experimentar novas tecnologias e transformar o conhecimento adquirido em aplicações reais.
 
-- 🎓 Análise e Desenvolvimento de Sistemas
-- 💻 Desenvolvimento de software
-- 🗄️ Interesse em bancos de dados e SQL
-- 🐧 Entusiasta de Linux e tecnologias open source
-- 🚀 Aprendizado contínuo através de projetos
+**Algumas características sobre mim:**
+
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
+- 💻 Interesse em desenvolvimento de software.
+- 🐧 Usuário de Fedora Linux.
+- 🎮 Interesse em desenvolvimento de jogos.
+- 🔐 Curiosidade e interesse em cibersegurança.
+- 🚀 Sempre buscando aprender e evoluir tecnicamente.
 
 <br clear="right"/>
 
 ---
 
-## `02 // TECH STACK`
+## `02 // CONHECIMENTOS EM DESENVOLVIMENTO`
 
 <div align="center">
 
-**PROGRAMMING LANGUAGES**
+**LINGUAGENS DE PROGRAMAÇÃO**
 
-<img src="https://skillicons.dev/icons?i=java,python,js&theme=dark"/>
+<img src="https://img.shields.io/badge/Java-B%C3%A1sico-9B72CF?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=10052B"/>
+<img src="https://img.shields.io/badge/Python-B%C3%A1sico-9B72CF?style=for-the-badge&logo=python&logoColor=white&labelColor=10052B"/>
 
-**DATABASES**
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite&theme=dark"/>
+**BANCO DE DADOS**
 
-**WEB DEVELOPMENT**
+<img src="https://img.shields.io/badge/SQL-Em%20aprendizado-B794F4?style=for-the-badge&logo=mysql&logoColor=white&labelColor=10052B"/>
 
-<img src="https://skillicons.dev/icons?i=html,css&theme=dark"/>
+</div>
 
-**OPERATING SYSTEMS & TOOLS**
+> Meu foco atual é fortalecer os fundamentos antes de avançar para tecnologias mais complexas.
 
-<img src="https://skillicons.dev/icons?i=linux,fedora,git,github,vscode,idea&theme=dark"/>
+---
+
+## `03 // FERRAMENTAS E AMBIENTE`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=fedora,linux,idea,git,github,vscode&theme=dark"/>
+
+<br/><br/>
+
+| FERRAMENTA | UTILIZAÇÃO |
+|:---|:---|
+| Fedora Linux | Sistema operacional atual |
+| IntelliJ IDEA | Desenvolvimento em Java |
+| Visual Studio Code | Edição de código |
+| Git | Controle de versão |
+| GitHub | Hospedagem e organização de projetos |
+| Terminal Linux | Comandos e administração do ambiente |
 
 </div>
 
 ---
 
-## `03 // DEVELOPMENT ENVIRONMENT`
-
-| TOOL | PURPOSE |
-|---|---|
-| IntelliJ IDEA | Java development |
-| Visual Studio Code | Code editing |
-| Git & GitHub | Version control |
-| Fedora Linux | Development environment |
-| MySQL / PostgreSQL | Database studies |
-| Terminal | Command-line operations |
-
----
-
-## `04 // FEATURED PROJECTS`
+## `04 // PROJETO EM DESTAQUE`
 
 <div align="center">
 
-<a href="https://github.com/SEU_USUARIO/SEU_REPOSITORIO_1">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=SEU_REPOSITORIO_1&theme=transparent&hide_border=true&title_color=00E5FF&icon_color=8A2BE2"/>
-</a>
-
-<a href="https://github.com/SEU_USUARIO/SEU_REPOSITORIO_2">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=SEU_REPOSITORIO_2&theme=transparent&hide_border=true&title_color=00E5FF&icon_color=8A2BE2"/>
+<a href="https://github.com/Sanguinete1822/ARD">
+<img width="85%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sanguinete1822&repo=ARD&theme=transparent&hide_border=true&title_color=B794F4&icon_color=9B72CF&text_color=FFFFFF"/>
 </a>
 
 </div>
 
-### 🎮 Java Game Development
-Development of a 2D game using Java Swing, exploring object-oriented programming, game loops, collision detection, movement mechanics and graphical interfaces.
+### 🎮 A.R.D. — Atirar, Recarregar e Defender
 
-### 🏥 Prontu Fácil
-Academic web development project focused on an online medical record system, including accessibility features such as high-contrast mode.
+Projeto experimental de desenvolvimento de um jogo baseado em turnos, no qual o jogador enfrenta o computador utilizando três ações principais:
 
-### 🖐️ Computer Vision
-Experimental Python project exploring hand detection and computer vision concepts.
+- **Atirar:** utilizar munição para tentar derrotar o adversário.
+- **Recarregar:** recuperar munição para as próximas rodadas.
+- **Defender:** bloquear os ataques do oponente.
 
-> Replace the repository links above with your actual project repositories. Add more projects as your portfolio grows.
+O projeto foi desenvolvido em diferentes versões, explorando Python e Java.
+
+**Conceitos trabalhados:**
+- Lógica de programação.
+- Estruturas condicionais e repetição.
+- Variáveis e controle de estados.
+- Geração de escolhas aleatórias.
+- Funções e organização do código.
+- Interface gráfica com Tkinter (Python).
+
+<text>
+
+</text>
+
+<div align="center">
+
+<a href="https://github.com/Sanguinete1822/ARD">
+<img src="https://img.shields.io/badge/VER%20REPOSIT%C3%93RIO-9B72CF?style=for-the-badge&logo=github&logoColor=white&labelColor=10052B"/>
+</a>
+
+</div>
 
 ---
 
-## `05 // CURRENT OBJECTIVES`
+## `05 // OBJETIVOS E PRÓXIMOS PASSOS`
 
 ```bash
-┌── [ SYSTEM TERMINAL ]
+┌── [ PLANO DE DESENVOLVIMENTO ]
 │
-├── USER: DEVELOPER_IN_PROGRESS
-├── ENVIRONMENT: FEDORA LINUX
-├── CURRENT MISSIONS:
+├── PROGRAMAÇÃO
+│   ├── Dominar Java
+│   └── Aprofundar conhecimentos em Python
 │
-├── [01] Strengthen Java fundamentals
-├── [02] Master SQL and database modeling
-├── [03] Develop practical software projects
-├── [04] Improve Git and GitHub workflow
-├── [05] Explore backend development
-├── [06] Build a professional portfolio
+├── DESENVOLVIMENTO
+│   ├── Explorar Game Development
+│   └── Aprender Web Development
 │
-├── NEXT MILESTONE:
-│   First opportunity in the technology industry
+├── BANCO DE DADOS
+│   ├── Dominar SQL
+│   ├── Aprender modelagem de dados
+│   └── Construir uma base sólida para
+│       conquistar a primeira oportunidade
+│       profissional na área de tecnologia
 │
-└── STATUS: LEARNING_MODE_ACTIVE
+├── CIBERSEGURANÇA
+│   └── Construir conhecimento amplo,
+│       da fundamentação aos temas avançados
+│
+└── FERRAMENTAS
+    └── Aprimorar Git e GitHub
 ```
 
 ---
 
-## `06 // GITHUB ANALYTICS`
+## `06 // ESTATÍSTICAS DO GITHUB`
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&count_private=true&hide_border=true&bg_color=080D1A&title_color=00E5FF&icon_color=8A2BE2&text_color=FFFFFF&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sanguinete1822&show_icons=true&count_private=true&hide_border=true&bg_color=10052B&title_color=B794F4&icon_color=9B72CF&text_color=FFFFFF&rank_icon=github"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=080D1A&title_color=00E5FF&text_color=FFFFFF&langs_count=8"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanguinete1822&layout=compact&hide_border=true&bg_color=10052B&title_color=B794F4&text_color=FFFFFF&langs_count=6"/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=dark&hide_border=true&background=080D1A&ring=00E5FF&fire=8A2BE2&currStreakLabel=00E5FF"/>
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Sanguinete1822&theme=dark&hide_border=true&background=10052B&ring=9B72CF&fire=B794F4&currStreakLabel=B794F4"/>
 
 </div>
 
 ---
 
-## `07 // CONTRIBUTION ACTIVITY`
+## `07 // CONTATO`
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=080D1A&color=00E5FF&line=8A2BE2&point=FFFFFF&area=true&hide_border=true&custom_title=DEVELOPMENT%20ACTIVITY"/>
-
-</div>
-
----
-
-## `08 // ACHIEVEMENTS`
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=discord&no-frame=true&no-bg=true&column=6&margin-w=10"/>
-
-</div>
-
----
-
-## `09 // CONTRIBUTION SNAKE`
-
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/>
-
-</div>
-
----
-
-## `10 // CONNECT WITH ME`
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-00E5FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=080D1A"/>
+<a href="https://github.com/Sanguinete1822">
+<img src="https://img.shields.io/badge/GitHub-Sanguinete1822-9B72CF?style=for-the-badge&logo=github&logoColor=white&labelColor=10052B"/>
 </a>
 
-<a href="mailto:SEU_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=080D1A"/>
-</a>
-
-<a href="https://github.com/SEU_USUARIO">
-<img src="https://img.shields.io/badge/GitHub-Follow-FFFFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=080D1A"/>
+<a href="mailto:rafasang1822@gmail.com">
+<img src="https://img.shields.io/badge/Email-Entre%20em%20contato-B794F4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=10052B"/>
 </a>
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:101B35,100:050816&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9B72CF,50:54268F,100:10052B&height=110&section=footer"/>
 
-**`SYSTEM STATUS: OPERATIONAL`**
+**Construindo conhecimento, desenvolvendo ideias e evoluindo um projeto de cada vez.**
 
-<sub>Designed to learn. Built to evolve. Powered by curiosity.</sub>
+<sub>RAFAEL SANGUINETE © 2026</sub>
 
-<sub>© 2026 — Developer Profile</sub>
+<sub>░▒▓ SYSTEM DEVELOPMENT IN PROGRESS ▓▒░</sub>
 
 </div>
+```
