@@ -1,4 +1,3 @@
-```markdown
 <!--
   SYSTEM INITIALIZATION
   GitHub Profile README
@@ -204,4 +203,3 @@ Experimental Python project exploring hand detection and computer vision concept
 <sub>© 2026 — Developer Profile</sub>
 
 </div>
-```
