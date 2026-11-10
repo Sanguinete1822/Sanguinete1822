@@ -1,4 +1,3 @@
-```html
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10052B,40:54268F,100:9B72CF&height=190&section=header&text=RAFAEL%20SANGUINETE&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=DESENVOLVIMENTO%20%7C%20TECNOLOGIA%20%7C%20APRENDIZADO&descSize=12&descAlignY=58"/>
